@@ -1,0 +1,24 @@
+.form-inline {
+    margin-right: 50px;
+}
+.logo-guia {
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+}
+.content-video {
+    height: 30%;
+    width: 100%
+}
+#carouselExampleIndicators {
+    height: 450px;
+}
+.carousel-item img{
+    height: 450px;
+}
+* {
+ box-sizing: border-box;   
+}
+.container-banner {
+    border-radius: 15px;
+}
